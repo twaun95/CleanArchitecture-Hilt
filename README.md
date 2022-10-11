@@ -1,6 +1,9 @@
 # CleanArchitecture-Hilt
 Hilt 의존성 주입을 통한 클린아키텍쳐 보일러 프로젝트입니다.
 
+1. CleanArchitecture
+2. Hilt
+3. KTS
 
 # CleanArchitecture?
 
@@ -25,3 +28,9 @@ Entity, UseCase, interface ...
 # Hilt?
 의존성 주입 방법 중 하나이다. 
 지금까지 koin을 사용해왔는데 Hilt로 프로젝트를 구성해보자.
+
+# KTS?
+
+Groovy -> (KTS == Kotlin DSL)
+가독성
+빌드속도 느림
