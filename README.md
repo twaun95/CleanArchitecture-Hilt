@@ -31,6 +31,12 @@ Entity, UseCase, interface ...
 
 # KTS?
 
+https://developer.android.com/studio/build/migrate-to-kts?hl=ko
+
 Groovy -> (KTS == Kotlin DSL) 빌드 구성 마이그레이션
+
+더 나은 컴파일 시간 확인과 IDE 지원을 제공하기 때문입니다.
 가독성
 빌드속도 느림
+
+앞으로 KTS는 Gradle 스크립트를 작성하는 데 Groovy보다 선호됩니다.
