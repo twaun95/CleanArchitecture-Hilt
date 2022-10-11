@@ -31,6 +31,6 @@ Entity, UseCase, interface ...
 
 # KTS?
 
-Groovy -> (KTS == Kotlin DSL)
+Groovy -> (KTS == Kotlin DSL) 빌드 구성 마이그레이션
 가독성
 빌드속도 느림
